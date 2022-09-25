@@ -1,0 +1,99 @@
+/********************************TAG SELECTORS************************/
+h2{
+  color: black;
+  font-size: 40px;
+  text-align: center;
+}
+h3{
+  font-size: 25px;
+  text-align: center;
+  margin-top: 10%;
+}
+/****************************CLASS SELECTORS**************************/
+.XMX{
+  margin-top: 10%;
+}
+.SPELL2{
+  word-spacing: 4px;
+  text-align: center;
+  text-align: justify;
+  margin-left: 18%;
+  margin-right: 18%;
+}
+.spell3{
+  word-spacing: 4px;
+  text-align: center;
+  text-align: justify;
+  margin-left: 18%;
+  margin-right: 18%;
+  margin-top: 10%;
+}
+.SPELLA{
+  margin-top: 20rem;
+}
+.A{
+  text-align: center;
+  margin-top: 30%;
+}
+.B{
+  text-align: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  border-radius: 10%;
+}
+.C{
+  text-align: center;
+}
+.D{
+  text-align: center;
+  word-spacing: 1px;
+  text-align: justify;
+  margin-top: 10%;
+}
+.d{
+  margin-left: 18%;
+  margin-right: 18%;
+  text-align: center;
+  text-align: justify;
+  margin-top: 4%;
+  word-spacing: 2px;
+}
+.E{
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+}
+.e{
+  margin-left: 18%;
+  margin-right: 18%;
+  text-align: center;
+  text-align: justify;
+  margin-top: 4%;
+  word-spacing: 2px;
+}
+.eEe{
+  margin-top: -2%;
+  margin-left: 8%;
+  margin-bottom: 2%;
+}
+.eF{
+  margin-left: 18%;
+  margin-right: 18%;
+  text-align: center;
+  text-align: justify;
+  margin-top: 4%;
+  word-spacing: 2px;
+}
+.eFe{
+  margin-top: -2%;
+  margin-left: 8%;
+}
+.F{
+  margin-left: 18%;
+  margin-right: 18%;
+  text-align: center;
+  text-align: justify;
+  margin-top: 4%;
+  word-spacing: 2px;
+}
+/****************************CLASS SELECTORS**************************/
